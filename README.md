@@ -1,37 +1,31 @@
 # Eduardo Bruno
 
-**Desenvolvedor backend e full-stack** focado em transformar regras de negócio em produtos digitais confiáveis, claros e fáceis de manter.
+**Desenvolvedor Backend** focado em transformar regras de negócio em APIs, integrações e produtos digitais confiáveis.
 
-Atuo na construção de APIs, integrações e sistemas administrativos que precisam continuar funcionando quando a operação aperta — de logística e estoque a pagamentos e gestão acadêmica.
+Atuo com PHP, Laravel, TypeScript, Node.js, React, Next.js, SQL e sistemas que precisam de consistência, rastreabilidade e manutenção simples.
 
-## Experiência
-
-- **Microton** — desenvolvimento de soluções WMS, vendas, logística, coleta em campo, estoque, pedidos e integrações.
-- **CronosBank Fintech** — APIs e fluxos financeiros com Laravel, pagamentos, PIX, integrações bancárias e rastreabilidade.
-- **AllBytes Tecnologia** — infraestrutura Windows, virtualização, segurança da informação e suporte técnico N2/N3.
-- **Cabonnet** — suporte técnico, redes, virtualização e troubleshooting de ambientes de tecnologia.
+[Portfolio profissional](https://portfolio-gilt-ten-m2rdv9gzry.vercel.app) · [LinkedIn](https://linkedin.com/in/eduardobrunocruz/) · [GitHub](https://github.com/eduardobrunu)
 
 ## Stack
 
 - **Backend:** PHP, Laravel, Filament, Node.js e APIs REST
-- **Frontend:** React, Next.js, TypeScript, JavaScript e Vite
-- **Dados e infraestrutura:** MySQL, PostgreSQL, SQL, Windows Server, VMware e Hyper-V
-- **Práticas:** regras de negócio, integrações, testes, observabilidade e manutenção evolutiva
+- **Frontend:** React, Next.js, TypeScript e JavaScript
+- **Dados:** MySQL, PostgreSQL, SQL e modelagem relacional
+- **Práticas:** regras de negócio, integrações, testes, troubleshooting e manutenção evolutiva
 
 ## Projetos em destaque
 
-- [Portfolio profissional](https://github.com/eduardobrunu/portfolio) — experiências, stack e estudos de caso.
-- [Projeto Academia](https://github.com/eduardobrunu/projeto-academia) — alunos, planos, pagamentos, frequência e relatórios.
-- [Projeto Confeitaria](https://github.com/eduardobrunu/projeto-confeitaria) — encomendas, estoque, receitas, produção e precificação.
+- **Projeto Academia** — privado. Gestão acadêmica com alunos, planos, pagamentos, frequência e relatórios.
+- **Projeto Confeitaria** — privado. Encomendas, estoque, receitas, produção e precificação em uma experiência mobile-first.
+- [Poker Manager](https://github.com/eduardobrunu/poker-manager) — gestão de bankroll, sessões e análise de risco.
 - [Empório Modelo](https://github.com/eduardobrunu/emporiomodelo) — website institucional responsivo com catálogo visual.
-- [Poker Manager](https://github.com/eduardobrunu/poker-manager) — dashboard Next.js para gestão de bankroll e sessões.
+
+## Experiência
+
+- **Microton** — APIs, integrações e produtos digitais para operações de negócio.
+- **CronosBank Fintech** — APIs e fluxos financeiros com pagamentos e integrações bancárias.
+- **AllBytes Tecnologia** — infraestrutura Windows, virtualização e suporte técnico N2/N3.
 
 ## Como trabalho
 
-Investigo o problema antes de alterar o código, separo regra de negócio de detalhe de interface e priorizo soluções simples, testáveis e compatíveis com o que já está em produção.
-
-## Contato
-
-- [LinkedIn](https://linkedin.com/in/eduardobrunocruz/)
-- [GitHub](https://github.com/eduardobrunu)
-- [Portfolio](https://github.com/eduardobrunu/portfolio)
+Investigo a causa antes de alterar o código, separo regra de negócio de detalhe de interface e priorizo soluções simples, testáveis e compatíveis com o que já existe.
