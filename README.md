@@ -1,17 +1,20 @@
 # Eduardo Bruno
 
-**Desenvolvedor Backend** focado em transformar regras de negócio em APIs, integrações e produtos digitais confiáveis.
+### Desenvolvedor Back-end | PHP · Laravel · APIs · Integrações
 
-Atuo com PHP, Laravel, TypeScript, Node.js, React, Next.js, SQL e sistemas que precisam de consistência, rastreabilidade e manutenção simples.
+Transformo regras de negócio em APIs, integrações e produtos digitais confiáveis.
 
-[Portfolio profissional](https://portfolio-gilt-ten-m2rdv9gzry.vercel.app) · [LinkedIn](https://linkedin.com/in/eduardobrunocruz/) · [GitHub](https://github.com/eduardobrunu)
+Atualmente, na Microton, trabalho com soluções para força de vendas, WMS, pedidos, estoque, logística e integrações com sistemas externos. Também tenho experiência em produtos financeiros e infraestrutura Windows.
+
+[Portfólio](https://eduardobruno.laravel.cloud) · [LinkedIn](https://linkedin.com/in/eduardobrunocruz/) · [GitHub](https://github.com/eduardobrunu)
 
 ## Stack
 
-- **Backend:** PHP, Laravel, Filament, Node.js e APIs REST
-- **Frontend:** React, Next.js, TypeScript e JavaScript
+- **Back-end:** PHP, Laravel, Filament, Node.js e APIs REST
+- **Front-end:** React, Next.js, TypeScript e JavaScript
 - **Dados:** MySQL, PostgreSQL, SQL e modelagem relacional
-- **Práticas:** regras de negócio, integrações, testes, troubleshooting e manutenção evolutiva
+- **Contexto:** WMS, pedidos, estoque, inventário, pagamentos e integrações
+- **Práticas:** regras de negócio, testes, troubleshooting, rastreabilidade e manutenção evolutiva
 
 ## Projetos em destaque
 
@@ -28,4 +31,7 @@ Atuo com PHP, Laravel, TypeScript, Node.js, React, Next.js, SQL e sistemas que p
 
 ## Como trabalho
 
-Investigo a causa antes de alterar o código, separo regra de negócio de detalhe de interface e priorizo soluções simples, testáveis e compatíveis com o que já existe.
+- Investigo a causa antes de alterar o código.
+- Separo regras de negócio dos detalhes da interface.
+- Priorizo soluções simples, testáveis e compatíveis.
+- Cuido de consistência, rastreabilidade e impacto em produção.
