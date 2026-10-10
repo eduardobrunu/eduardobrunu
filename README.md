@@ -4,4 +4,4 @@ Desenvolvo aplicações web, APIs e integrações. Por aqui, compartilho projeto
 
 PHP / Laravel · Node.js / TypeScript · PostgreSQL / MySQL
 
-[Portfólio](https://eduardobruno.laravel.cloud/) · [LinkedIn](https://www.linkedin.com/in/eduardobrunocruz/)
+[Portfólio](https://eduardo-bruno-portfolio.eduardobrunoeb.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/eduardobrunocruz/)
